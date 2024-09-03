@@ -1,4 +1,4 @@
-# Blinkit-Sales-Performance-Anlysis
+# Blinkit-Sales-Performance-Analysis
 
 # Project Overview:
 
